@@ -1,0 +1,5 @@
+.gitattributes export-ignore
+.gitignore export-ignore
+README.md export-ignore
+git-export export-ignore
+var/lib/ucf/.gitracked export-ignore
